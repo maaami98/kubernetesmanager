@@ -7,10 +7,11 @@
 Use the install script hosted on GitHub:
 
 ```bash
-curl -fsSL https://github.com/<OWNER>/<REPO>/raw/main/kubernetesmanager/install.sh | sh
+python3 -m venv venv
+source venv/bin/activate
+pip install git+https://github.com/maaami98/kubernetesmanager.git
 ```
 
-Replace `<OWNER>` and `<REPO>` with your GitHub user/org and repository name.
 
 ## Usage
 

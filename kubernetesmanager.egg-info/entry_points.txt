@@ -1,0 +1,2 @@
+[console_scripts]
+km = kubernetesmanager.km:main

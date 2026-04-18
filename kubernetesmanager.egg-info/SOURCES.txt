@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+kubernetesmanager/__init__.py
+kubernetesmanager/km.py
+kubernetesmanager.egg-info/PKG-INFO
+kubernetesmanager.egg-info/SOURCES.txt
+kubernetesmanager.egg-info/dependency_links.txt
+kubernetesmanager.egg-info/entry_points.txt
+kubernetesmanager.egg-info/requires.txt
+kubernetesmanager.egg-info/top_level.txt
